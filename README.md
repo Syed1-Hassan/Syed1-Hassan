@@ -19,7 +19,7 @@
 -  Recently completed project 💻: Point of Sale Application.
 
 
--  I’m currently in war with bugs 🐞. And improving myself to become a better programmer. 
+-  I’m currently in war with bugs 🐞.
 
 
 
