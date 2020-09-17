@@ -16,7 +16,7 @@
 
 
 
--  Recently completed project 💻: Point of Sale Application.
+-  Recently completed project 💻: Point of Sale Application.  https://youtu.be/lDYW2iXuUFU
 
 
 -  I’m currently in war with bugs 🐞.
