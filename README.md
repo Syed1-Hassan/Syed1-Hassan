@@ -16,7 +16,7 @@
 
 
 
--  Recently completed project 💻: Point of Sale Application For an Ice-cream Shop.  https://youtu.be/vdoCiWsM-tI
+-  Recently completed project 💻: Point of Sale Application For an 🍦 Ice-cream Shop.  https://youtu.be/vdoCiWsM-tI
 
 
 -  I’m currently in war with bugs 🐞.
