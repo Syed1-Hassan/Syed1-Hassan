@@ -16,6 +16,7 @@
 
 
 -  Recently Updated project 💻 Point of Sale Application For a Clothing Shop. https://youtu.be/QRro6P_kTz0
+   
    Previous Version : https://youtu.be/pwwl4kXZ06U
 
 
