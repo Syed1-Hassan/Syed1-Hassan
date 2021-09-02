@@ -3,7 +3,7 @@
 **** 
 
 
-**I am 21 years old and I code in **C#**.**
+**I am 22 years old and I code in **C#**.**
 
 ****I’m just a super curious guy who fell in love with computer programming.****
 
@@ -13,23 +13,7 @@
 ****
 
 
-
-
--  Recently Updated project 💻 Point of Sale Application For a Clothing Shop. https://youtu.be/QRro6P_kTz0
-   
-   Previous Version : https://youtu.be/pwwl4kXZ06U
-
-
-
--  Recently completed project 💻: Point of Sale Application For an 🍦 Ice-cream Shop.  https://youtu.be/vdoCiWsM-tI
-
-
-
--  I’m currently in war with bugs 🐞.
-
-
-
--  I’m looking to collaborate 👯 on  Anything related to C#
+Cofouder & Director at THUNDERSOFT https://github.com/Thundersoft-Tech
 
 
 
