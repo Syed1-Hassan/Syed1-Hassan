@@ -13,19 +13,6 @@
 ****
 
 
-Cofouder & Director at THUNDERSOFT
-http://www.thundersoft.tech/
-
-https://www.facebook.com/thundersoft.tech
-
-https://github.com/Thundersoft-Tech
-
-
-
-
-****
-
-
 
 
 ![Syed1-Hassan's github stats](https://github-readme-stats.vercel.app/api?username=Syed1-Hassan&count_private=true&show_icons=true&theme=radical)
